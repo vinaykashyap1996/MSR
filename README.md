@@ -89,7 +89,7 @@ Note : The preprocessed dataset will now be present in the location as in the qu
 [Github link](https://github.com/vinaykashyap1996/MSR/blob/master/Process/Preprocessing.ipynb)
 
 **3. Manual Analysis**
-> * Select the Java codes available in the **dataset.csv** file obtained from the previous process.
+> * Select the Java codes available in the **preprossed_dataset.csv** file obtained from the previous process.
 > * Copy these Java codes and paste in the Java IDEs such as Eclipse or NetBeans for manual analysis.
 > * Compile and execute the codes one by one.
 > * Categorize the reproducibility status into 6 types
