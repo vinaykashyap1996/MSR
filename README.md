@@ -1,4 +1,4 @@
-This project aims at reproducing the paper "Can Can issues reported at Stack Overflow questions be reproduced? An exploratory study".  
+This project aims at reproducing the paper "Can issues reported at Stack Overflow questions be reproduced? An exploratory study".  
 # Meta data
 1. A reproduction as part of MSR course at MSR course 2020/21 at UniKo, CS Department, SoftLang team.
 2. Paper title: "Can issues reported at Stack Overflow questions be reproduced? An exploratory study"
