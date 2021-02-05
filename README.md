@@ -125,7 +125,7 @@ Note - The graphs are constructed with the help of python, pandas, numpy and mat
 1. Process delta :
 
 The reproducibility of the paper can be summarized as follows.
-> * We extracted the Stack Overflow data dump using the link given in the paper. [Link] The link had the query but we had to modify a little to get the required dump.
+> * We extracted the Stack Overflow data dump using the link given in the paper. The link had the query but we had to modify a little to get the required dump.
 > * We were able to reproduce most of the steps for preprocessing such as selecting Java questions which had at least one line of code, which had keywords like error, warning, exception, issue, fix, problem, fail and wrong as mentioned in the paper.
 > * The process of random sampling was unclear in the paper which made us select the first 400 questions from the preprocessed dataset for manual analysis. 
 > * There were no SQL queries or links mentioned in the paper which would transform data dump into preprocessed dataset. We had to write queries on our own.
